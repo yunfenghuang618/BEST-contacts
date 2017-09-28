@@ -1,5 +1,5 @@
 Name: Yunfeng Huang
-Status: PhD  
+Status: PhD student  
 Degree program: Epidemiology  
 School: Emory 
 Lab: Sun  
